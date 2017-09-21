@@ -1,0 +1,6 @@
+[package]
+name = "queens_on_board"
+version = "0.1.0"
+authors = ["garyemerson <gmohammadioun@gmail.com>"]
+
+[dependencies]
