@@ -1,0 +1,1 @@
+If you have a soln with n queens then taking one aways will also be a soln with n-1 queens. This also means that any soln on n-1 queens is also a basis for a soln with n queens (dynamic programming!).
