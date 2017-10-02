@@ -1,1 +1,6 @@
+TODO
+----
+* A big speed up would be as you are validating new placements by adding one queen at every position you should only need to validate that added queen with all the others, not every queen with every other queen.
+
+General idea for solution:
 If you have a soln with n queens then taking one aways will also be a soln with n-1 queens. This also means that any soln on n-1 queens is also a basis for a soln with n queens (dynamic programming!).
