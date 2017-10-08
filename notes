@@ -1,5 +1,6 @@
 TODO
 ----
+* try the DFS like search that only returns count of solutions
 * A big speed up would be as you are validating new placements by adding one queen at every position you should only need to validate that added queen with all the others, not every queen with every other queen.
 
 General idea for solution:
